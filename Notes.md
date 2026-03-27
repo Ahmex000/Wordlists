@@ -1,0 +1,2 @@
+- sepatrated wordlists (APIs and Dirs)
+- any wordlist must have full dir wordlist and words wordlist , and mixmax wordist
